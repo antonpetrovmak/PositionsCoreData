@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1428F0D4-52B8-4588-BE26-850BCF597E25"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA8B8AB7-0269-41FF-AC3A-5DF32C7CDFDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Positions/View/UIKit/PositionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "onRemoveAll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA8B8AB7-0269-41FF-AC3A-5DF32C7CDFDD - ac5bfcbab60b1b5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Positions.PositionsViewController.onRemoveAll(Any) -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/View/UIKit/PositionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "BA8B8AB7-0269-41FF-AC3A-5DF32C7CDFDD - ac5bfcbab60b1b5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Positions.PositionsViewController.onRemoveAll(Any) -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/View/UIKit/PositionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D8038BA-01A9-4761-B7AB-F1E7484B27F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Positions/View/UIKit/PositionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "onRemoveAll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D8038BA-01A9-4761-B7AB-F1E7484B27F4 - d379be03ed68aa4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Positions.PositionsViewController.onRemoveAll(Any) -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/View/UIKit/PositionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "3D8038BA-01A9-4761-B7AB-F1E7484B27F4 - b3592a46e134b37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in Positions.PositionsViewController.onRemoveAll(Any) -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/View/UIKit/PositionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3D8038BA-01A9-4761-B7AB-F1E7484B27F4 - 4b878d74e4b0764e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Positions.PositionsViewController.onRemoveAll(Any) -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/View/UIKit/PositionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "3D8038BA-01A9-4761-B7AB-F1E7484B27F4 - 3e7efa0e7b25d449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in Positions.PositionsViewController.onRemoveAll(Any) -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/View/UIKit/PositionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B36C534-1AE6-4996-B7F1-47DD8AA262F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Positions/Services/PositionsUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "deletePosition(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B36C534-1AE6-4996-B7F1-47DD8AA262F6 - bb17b0786821bc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Positions.PositionsUseCaseImpl.deletePosition(Swift.Array&lt;Positions.Position&gt;) async throws -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/Services/PositionsUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9B36C534-1AE6-4996-B7F1-47DD8AA262F6 - 8b99f13a037c828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Positions.PositionsUseCaseImpl.deletePosition(Swift.Array&lt;Positions.Position&gt;) async throws -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/Services/PositionsUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "9B36C534-1AE6-4996-B7F1-47DD8AA262F6 - b1f6385e5ee35bc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Positions.PositionsUseCaseImpl.deletePosition(Swift.Array&lt;Positions.Position&gt;) async throws -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/Services/PositionsUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "9B36C534-1AE6-4996-B7F1-47DD8AA262F6 - 1cd75fc201303bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Positions.PositionsUseCaseImpl.deletePosition(Swift.Array&lt;Positions.Position&gt;) async throws -&gt; ()"
+                  moduleName = "Positions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonpetrovmak/Projects/Positions/Positions/Services/PositionsUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
